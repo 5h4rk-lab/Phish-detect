@@ -16,4 +16,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Open your web browser and navigate to `http://localhost:5000` to access the user interface.
+Open your web browser and navigate to `http://localhost:5000` to access the user interface. <br>
+
+![legit](https://i.imgur.com/DqrVKLK.png)<br>
+![phish](https://i.imgur.com/fWOBlg6.png)
