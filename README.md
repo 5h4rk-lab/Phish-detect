@@ -11,3 +11,9 @@ You can install the required packages using the following command:
 ```bash
 pip install -r requirements.txt
 ```
+## Run
+```bash
+python app.py
+```
+
+Open your web browser and navigate to `http://localhost:5000` to access the user interface.
